@@ -8,14 +8,14 @@ Repository containing:
   
 On pcae177 this files are in:
   
-  Wavedumpconfig: /home/lab/Documentos/QtPrograms/WaveDumpConfig_V3
+  - Wavedumpconfig: /home/lab/Documentos/QtPrograms/WaveDumpConfig_V3
   
-  wavedump-3.10.0: /home/lab/Documentos/wavedump-3.10.0
+  - wavedump-3.10.0: /home/lab/Documentos/wavedump-3.10.0
   
 Short term goals:
   
-  Add time/Nevents option to stop the data taking
+  - Add time/Nevents option to stop the data taking
   
 Long term goals:
   
-  Create a Python interface to create the txt file configs, one that is actualy helpful and easy to understand
+  - Create a Python interface to create the txt file configs, one that is actualy helpful and easy to understand
